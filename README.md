@@ -21,10 +21,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;**Data Analyst** with a professional background in the **banking sector**. \
-&nbsp;&nbsp;&nbsp; :microscope: &nbsp;Passionate about **Socio-Economic data analysis** and humanitarian impact projects. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Focused on **Machine Learning** and advanced **Data Visualization**. \
-&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed **300+ hours** of intensive data training through Google, ALX, and Udacity.
+&nbsp;&nbsp;&nbsp; :bank: &nbsp;**2+ Years** of professional experience in **Banking Operations & Finance**. \
+&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;Analyzed **100,000+ rows** of data to detect a **39% fraud rate** and optimize E-commerce performance. \
+&nbsp;&nbsp;&nbsp; :microscope: &nbsp;Executed **Socio-Economic analysis** with high-impact data visualization for regional projects. \
+&nbsp;&nbsp;&nbsp; :office: &nbsp;Certified professional with **300+ hours** of intensive training from **Google, ALX, and Udacity**. \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Applying **A/B Testing** and **Machine Learning** to drive **Business Growth**.
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
