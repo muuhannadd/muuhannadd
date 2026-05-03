@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- هيدر يدمج الخلفية الزرقاء مع نص أبيض وتأثير نار حركي -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d7a&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <!-- هيدر بخلفية زرقاء ونص أبيض مجمع -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d7a&height=250&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20|%20Banking%20Expert%20|%20Economics%20Graduate&descAlignY=65&descSize=25" width="100%"/>
 </p>
 
 <p align="center">
-  <!-- إضافة تأثير النار الحركي بوضوح تحت الاسم مباشرة -->
+  <!-- تأثير النار الحركي تحت الهيدر مباشرة -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
 </p>
 
@@ -27,7 +27,7 @@
   <summary><b>:computer: &nbsp;Technical Toolbox</b></summary>
   <br/>
 
-<!-- Data Analysis Core Tools -->
+<!-- المهارات اللي طلبتها بالظبط -->
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
@@ -35,38 +35,25 @@
 
 <br/>
 
-<!-- Specialized Skills & Libraries -->
+<!-- مهارات إضافية من ملفك الشخصي -->
 ![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black)
-
-<br/>
-
-<!-- Databases & Environment -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
 </details>
 
 <details>
-  <summary><b>:chart_with_upwards_trend: &nbsp;Key Projects & Experience</b></summary>
+  <summary><b>:chart_with_upwards_trend: &nbsp;Key Projects</b></summary>
   <br/>
 
-*   **Fraud Detection Analysis:** Identified a 39% fraud rate using SQL and Power BI to identify transaction patterns and risk scores.
-*   **E-commerce A/B Testing:** Evaluated conversion rates for new web page designs using Python and statistical implementation.
-*   **Socio-Economic Impact Projects:** Analyzing regional humanitarian issues through data visualization.
+*   **Fraud Detection Analysis:** Identified a 39% fraud rate using SQL and Power BI.
+*   **E-commerce A/B Testing:** Evaluated conversion rates for new web page designs using Python.
+*   **Socio-Economic Projects:** Visualizing regional humanitarian issues using data.
 </details>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhannadnasser&hide_border=true&theme=tokyonight" />
-    </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhannadnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhannadnasser&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
