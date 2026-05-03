@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ANALYST&descAlignY=65&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1da1f2&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling&desc=DATA%20ANALYST&descAlignY=65&descSize=25" width="100%"/>
 </p>
+<!-- باقي الكود كما هو -->
 
 ### :space_invader: &nbsp;About Me
 <!-- باقي الكود كما هو -->
