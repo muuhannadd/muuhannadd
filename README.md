@@ -1,7 +1,9 @@
 <p align="center">
-  <!-- هيدر بخلفية زرقاء ونص أبيض مجمع -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d7a&height=250&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20|%20Banking%20Expert%20|%20Economics%20Graduate&descAlignY=65&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ANALYST&descAlignY=65&descSize=25" width="100%"/>
 </p>
+
+### :space_invader: &nbsp;About Me
+<!-- باقي الكود كما هو -->
 
 <p align="center">
   <!-- تأثير النار الحركي تحت الهيدر مباشرة -->
