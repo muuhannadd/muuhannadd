@@ -6,7 +6,7 @@
 <p align="center">
   <!-- تأثير حركي للمسمى الوظيفي يتحرك في منتصف الشاشة -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=DATA+ANALYST;Big+Data;ECONOMICS+STATITICS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=DATA+ANALYST;SQL+&+PYTHON;BUSINESS+DESCISIONS" alt="Typing SVG" />
   </a>
 </p>
 
