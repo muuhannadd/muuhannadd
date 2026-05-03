@@ -1,9 +1,10 @@
 <p align="center">
-  <!-- الاسم بتأثير النار والنص الأبيض المتحرك -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=MUHANNAD+NASSER;DATA+ANALYST;TURNING+DATA+INTO+INSIGHTS+🔥" alt="Typing SVG" />
+  <!-- هيدر يدمج الخلفية الزرقاء مع نص أبيض وتأثير نار حركي -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d7a&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
+  <!-- إضافة تأثير النار الحركي بوضوح تحت الاسم مباشرة -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
 </p>
 
@@ -13,7 +14,7 @@
 &nbsp;&nbsp;&nbsp; :microscope: &nbsp;Passionate about uncovering insights from complex datasets to drive business decisions.\
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Continuously evolving in the field of Data Science and Machine Learning.\
 &nbsp;&nbsp;&nbsp; :brain: &nbsp;Focusing on automation, statistical accuracy, and functional analysis.\
-&nbsp;&nbsp;&nbsp; :office: &nbsp;Leveraging 300+ hours of intensive data analytics training through Google, ALX, and Udacity.
+&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed 300+ hours of intensive data analytics training through Google, ALX, and Udacity.
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +37,7 @@
 
 <!-- Specialized Skills & Libraries -->
 ![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black)
-![Pivot Tables](https://img.shields.res/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black)
@@ -55,9 +56,9 @@
   <summary><b>:chart_with_upwards_trend: &nbsp;Key Projects & Experience</b></summary>
   <br/>
 
-*   **Fraud Detection Analysis:** Identified a 39% fraud rate using SQL and Power BI to analyze transaction patterns and risk scores.
-*   **E-commerce A/B Testing:** Evaluated conversion rates for new web page designs using Python and statistical inference.
-*   **Socio-Economic Data Visualization:** Analyzing regional humanitarian issues to create a positive social impact.
+*   **Fraud Detection Analysis:** Identified a 39% fraud rate using SQL and Power BI to identify transaction patterns and risk scores.
+*   **E-commerce A/B Testing:** Evaluated conversion rates for new web page designs using Python and statistical implementation.
+*   **Socio-Economic Impact Projects:** Analyzing regional humanitarian issues through data visualization.
 </details>
 
 <details>
