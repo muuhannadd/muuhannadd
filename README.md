@@ -81,18 +81,3 @@
 *   **Churn Prediction Model**: Discovered high-risk segments among non-contract customers and identified seniors as the most stable demographic.
 *   **Supermarket Productivity**: Analyzed branch performance and correlated **temperature variations** with consumer purchasing power.
 
-</details>
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhannadnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhannadnasser&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-    </p>
-</details>
-
-<hr/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=muhannadnasser&style=flat-square&label=Profile%20Views&color=0077B5">
-</p>
