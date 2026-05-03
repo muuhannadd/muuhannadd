@@ -28,8 +28,11 @@
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Applying **A/B Testing** and **Machine Learning** to drive **Business Growth**.
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/muhannadnasser/](https://www.linkedin.com/in/muhannad-nasser/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- أيقونة الجيميل مع تفعيل رابط الإرسال المباشر -->
+  <a href="mailto:mohanadn202@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <p align="center">
+  <!-- أيقونة لينكدن مع الرابط الصحيح لصفحتك -->
+  <a href="https://www.linkedin.com/in/muhannad-nasser/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
