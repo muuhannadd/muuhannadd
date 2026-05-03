@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1da1f2&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=twinkling&desc=DATA%20ANALYST&descAlignY=65&descSize=25" width="100%"/>
+  <!-- هيدر الخلفية الزرقاء والاسم فقط لتقليل الازدحام -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
-<!-- باقي الكود كما هو -->
-
-### :space_invader: &nbsp;About Me
-<!-- باقي الكود كما هو -->
 
 <p align="center">
-  <!-- تأثير النار الحركي تحت الهيدر مباشرة -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
+  <!-- تأثير حركي للمسمى الوظيفي يتحرك في منتصف الشاشة -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=DATA+ANALYST;BANKING+OPERATIONS+EXPERT;ECONOMICS+GRADUATE" alt="Typing SVG" />
+  </a>
 </p>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;**Data Analyst** with a solid background in Banking Operations and Economics. \
-&nbsp;&nbsp;&nbsp; :microscope: &nbsp;Passionate about uncovering insights from complex datasets to drive business decisions.\
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Continuously evolving in the field of Data Science and Machine Learning.\
-&nbsp;&nbsp;&nbsp; :brain: &nbsp;Focusing on automation, statistical accuracy, and functional analysis.\
-&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed 300+ hours of intensive data analytics training through Google, ALX, and Udacity.
+&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;**Data Analyst** with a professional background in the **banking sector** (Banque Misr & ABK). \
+&nbsp;&nbsp;&nbsp; :microscope: &nbsp;Passionate about **Socio-Economic data analysis** and humanitarian impact projects. \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Focused on **Machine Learning** and advanced **Data Visualization**. \
+&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed **300+ hours** of intensive data training through Google, ALX, and Udacity.
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +28,7 @@
   <summary><b>:computer: &nbsp;Technical Toolbox</b></summary>
   <br/>
 
-<!-- المهارات اللي طلبتها بالظبط -->
+<!-- الأساسيات التي طلبتها -->
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
@@ -38,7 +36,7 @@
 
 <br/>
 
-<!-- مهارات إضافية من ملفك الشخصي -->
+<!-- مهارات متقدمة وأدوات معالجة البيانات -->
 ![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -46,12 +44,11 @@
 </details>
 
 <details>
-  <summary><b>:chart_with_upwards_trend: &nbsp;Key Projects</b></summary>
+  <summary><b>:chart_with_upwards_trend: &nbsp;Featured Projects</b></summary>
   <br/>
 
-*   **Fraud Detection Analysis:** Identified a 39% fraud rate using SQL and Power BI.
-*   **E-commerce A/B Testing:** Evaluated conversion rates for new web page designs using Python.
-*   **Socio-Economic Projects:** Visualizing regional humanitarian issues using data.
+*   **Fraud Analysis Project:** Identified transaction patterns and risk scores with a 39% fraud rate detection.
+*   **E-commerce A/B Testing:** Evaluated conversion rates for new designs using Python and statistical methods.
 </details>
 
 <details>
