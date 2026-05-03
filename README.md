@@ -1,8 +1,10 @@
 <p align="center">
   <!-- هيدر الخلفية الزرقاء والاسم فقط لتقليل الازدحام -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=📊+DATA+ANALYST;🐍+SQL+%26+PYTHON;🚀+BUSINESS+DECISIONS;📈+DEVELOPING+KPIs" alt="Typing SVG" />
+  </a>
 </p>
-
 <p align="center">
   <!-- تأثير حركي للمسمى الوظيفي يتحرك في منتصف الشاشة -->
 <p align="center">
