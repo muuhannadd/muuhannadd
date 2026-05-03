@@ -1,24 +1,26 @@
 <p align="center">
-  <!-- هيدر الخلفية الزرقاء والاسم فقط لتقليل الازدحام -->
+  <!-- هيدر الخلفية الزرقاء مع الاسم بنص أبيض ناصع وتأثير حركي ناعم -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=200&section=header&text=MUHANNAD%20NASSER&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+
 <p align="center">
+  <!-- المسمى الوظيفي والمهارات تتحرك بوضوح مع أيقونات بصرية جذابة -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=📊+DATA+ANALYST;🐍+SQL+%26+PYTHON;🚀+BUSINESS+DECISIONS;📈+DEVELOPING+KPIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+DATA+ANALYST;%F0%9F%90%8D+SQL+%26+PYTHON;%F0%9F%9A%80+BUSINESS+DECISIONS;%F0%9F%93%88+DEVELOPING+KPIs" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
-  <!-- تأثير حركي للمسمى الوظيفي يتحرك في منتصف الشاشة -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=DATA+ANALYST;SQL+%26+PYTHON;BUSINESS+DECISIONS;DEVELOPING+KPIs" alt="Typing SVG" />
-  </a>
+  <!-- فاصل بصري متحرك (Aqua Line) لإضافة لمسة جمالية بين الهيدر والمحتوى -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 </p>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;**Data Analyst** with a professional background in the **banking sector** (Banque Misr & ABK). \
+&nbsp;&nbsp;&nbsp; :bar_chart: &nbsp;**Data Analyst** with a professional background in the **banking sector**. \
 &nbsp;&nbsp;&nbsp; :microscope: &nbsp;Passionate about **Socio-Economic data analysis** and humanitarian impact projects. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Focused on **Machine Learning** and advanced **Data Visualization**. \
-&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed **300+ hours** of intensive data training through Google, ALX, and Udacity.
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Focused on **Machine Learning** and advanced **Data Visualization** (Power BI). \
+&nbsp;&nbsp;&nbsp; :office: &nbsp;Completed **300+ hours** of intensive data training (Google, ALX, Udacity).
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +33,7 @@
   <summary><b>:computer: &nbsp;Technical Toolbox</b></summary>
   <br/>
 
-<!-- الأساسيات التي طلبتها -->
+<!-- الأدوات الأساسية التي طلبتها -->
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
@@ -39,7 +41,7 @@
 
 <br/>
 
-<!-- مهارات متقدمة وأدوات معالجة البيانات -->
+<!-- مهارات معالجة البيانات المتقدمة -->
 ![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -50,7 +52,7 @@
   <summary><b>:chart_with_upwards_trend: &nbsp;Featured Projects</b></summary>
   <br/>
 
-*   **Fraud Analysis Project:** Identified transaction patterns and risk scores with a 39% fraud rate detection.
+*   **Fraud Analysis Project:** Identified transaction patterns with a 39% fraud rate detection using SQL and Power BI.
 *   **E-commerce A/B Testing:** Evaluated conversion rates for new designs using Python and statistical methods.
 </details>
 
