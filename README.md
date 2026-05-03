@@ -38,27 +38,47 @@
   <summary><b>:computer: &nbsp;Technical Toolbox</b></summary>
   <br/>
 
+<!-- الأدوات الرئيسية (Core Tools) -->
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 <br/>
 
-![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<!-- مكتبات بايثون للتحليل (Python Libraries) -->
+**🐍 Python Libraries:** 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-31333F?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3D6A81?style=flat&logo=statsmodels&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+<br/>
+
+<!-- المهارات الهندسية والتحليلية (Data Engineering & Analysis) -->
+**🏗️ Advanced Skills:**
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0077B5?style=flat) 
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4479A1?style=flat) 
+![Power Query](https://img.shields.io/badge/Power%20Query-FFB900?style=flat&logo=microsoft&logoColor=black) 
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1D6F42?style=flat&logo=microsoft-excel&logoColor=white)
+
 </details>
 
 <details>
   <summary><b>:chart_with_upwards_trend: &nbsp;Featured Projects</b></summary>
   <br/>
 
-*   **Fraud Analysis Project**: Identified transaction patterns with a **39% fraud rate** detection using SQL and Power BI.
-*   **E-commerce A/B Testing**: Evaluated conversion rates for new designs using Python and statistical methods.
-</details>
+*   **Fraud Analysis System**: Identified a **39% fraud rate** by tracking time-based patterns in **100k+ transactions** with actionable risk mitigation.
+*   **E-commerce Optimization**: Boosted **Conversion Rate to 5%** and slashed returns from **38% to 20%** through advanced data-driven insights.
+*   **Churn Prediction Model**: Discovered high-risk segments among non-contract customers and identified seniors as the most stable demographic.
+*   **Supermarket Productivity**: Analyzed branch performance and correlated **temperature variations** with consumer purchasing power.
 
+</details>
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
